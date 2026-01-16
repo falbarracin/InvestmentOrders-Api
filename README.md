@@ -58,6 +58,7 @@ json Request:
 ## Levantar el entorno completo
 
 Desde la raíz del proyecto ejecutar desde una consola cmd:
+
 1-
 docker exec -i investmentorders-sql /opt/mssql-tools18/bin/sqlcmd -S localhost -U sa -P YourStrong!Passw0rd -C -i /db/init.sql
 
