@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "InvestmentOrders.Application/1.0.0": {
+        "dependencies": {
+          "InvestmentOrders.Domain": "1.0.0"
+        },
+        "runtime": {
+          "InvestmentOrders.Application.dll": {}
+        }
+      },
+      "InvestmentOrders.Domain/1.0.0": {
+        "runtime": {
+          "InvestmentOrders.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvestmentOrders.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "InvestmentOrders.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\bin\Debug\net8.0\InvestmentOrders.Infrastructure.deps.json
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\bin\Debug\net8.0\InvestmentOrders.Infrastructure.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\bin\Debug\net8.0\InvestmentOrders.Infrastructure.pdb
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\bin\Debug\net8.0\InvestmentOrders.Application.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\bin\Debug\net8.0\InvestmentOrders.Domain.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\bin\Debug\net8.0\InvestmentOrders.Application.pdb
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\bin\Debug\net8.0\InvestmentOrders.Domain.pdb
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\obj\Debug\net8.0\InvestmentOrders.Infrastructure.csproj.AssemblyReference.cache
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\obj\Debug\net8.0\InvestmentOrders.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\obj\Debug\net8.0\InvestmentOrders.Infrastructure.AssemblyInfoInputs.cache
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\obj\Debug\net8.0\InvestmentOrders.Infrastructure.AssemblyInfo.cs
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\obj\Debug\net8.0\InvestmentOrders.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\obj\Debug\net8.0\Investme.B51E7541.Up2Date
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\obj\Debug\net8.0\InvestmentOrders.Infrastructure.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\obj\Debug\net8.0\refint\InvestmentOrders.Infrastructure.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\obj\Debug\net8.0\InvestmentOrders.Infrastructure.pdb
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Infrastructure\obj\Debug\net8.0\ref\InvestmentOrders.Infrastructure.dll

@@ -1,0 +1,17 @@
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\bin\Debug\net8.0\InvestmentOrders.Tests.deps.json
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\bin\Debug\net8.0\InvestmentOrders.Tests.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\bin\Debug\net8.0\InvestmentOrders.Tests.pdb
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\bin\Debug\net8.0\InvestmentOrders.Application.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\bin\Debug\net8.0\InvestmentOrders.Domain.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\bin\Debug\net8.0\InvestmentOrders.Application.pdb
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\bin\Debug\net8.0\InvestmentOrders.Domain.pdb
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\obj\Debug\net8.0\InvestmentOrders.Tests.csproj.AssemblyReference.cache
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\obj\Debug\net8.0\InvestmentOrders.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\obj\Debug\net8.0\InvestmentOrders.Tests.AssemblyInfoInputs.cache
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\obj\Debug\net8.0\InvestmentOrders.Tests.AssemblyInfo.cs
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\obj\Debug\net8.0\InvestmentOrders.Tests.csproj.CoreCompileInputs.cache
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\obj\Debug\net8.0\Investme.4658297C.Up2Date
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\obj\Debug\net8.0\InvestmentOrders.Tests.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\obj\Debug\net8.0\refint\InvestmentOrders.Tests.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\obj\Debug\net8.0\InvestmentOrders.Tests.pdb
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Tests\obj\Debug\net8.0\ref\InvestmentOrders.Tests.dll

@@ -1,0 +1,11 @@
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Domain\bin\Debug\net8.0\InvestmentOrders.Domain.deps.json
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Domain\bin\Debug\net8.0\InvestmentOrders.Domain.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Domain\bin\Debug\net8.0\InvestmentOrders.Domain.pdb
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Domain\obj\Debug\net8.0\InvestmentOrders.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Domain\obj\Debug\net8.0\InvestmentOrders.Domain.AssemblyInfoInputs.cache
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Domain\obj\Debug\net8.0\InvestmentOrders.Domain.AssemblyInfo.cs
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Domain\obj\Debug\net8.0\InvestmentOrders.Domain.csproj.CoreCompileInputs.cache
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Domain\obj\Debug\net8.0\InvestmentOrders.Domain.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Domain\obj\Debug\net8.0\refint\InvestmentOrders.Domain.dll
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Domain\obj\Debug\net8.0\InvestmentOrders.Domain.pdb
+C:\Repo\InvestmentOrders\InvestmentOrders\InvestmentOrders.Domain\obj\Debug\net8.0\ref\InvestmentOrders.Domain.dll
