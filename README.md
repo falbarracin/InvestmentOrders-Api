@@ -79,7 +79,7 @@ API ASP.NET Core
 
 ## Api 
 
-http://localhost:5000
+http://localhost:5000/swagger/index.html
 
 ## Ejecutar tests por consola
 
